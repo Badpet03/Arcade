@@ -1,4 +1,4 @@
-# Classic Arcade Game (The Frogger)
+# Classic Arcade Game (The Leap)
 
 ## About
 
@@ -6,7 +6,7 @@ This game was built with JavaScript. The functions are **object-oriented** class
 
 ## How to run
 
-visit: [arcade-game](https://adebayo-s.github.io/arcade-game/)
+visit: [arcade-game](https://badpet03.github.io/Arcade/)
 
 ### How to play
 
